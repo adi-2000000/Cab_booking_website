@@ -1,0 +1,25 @@
+[15-Feb-2023 07:25:17 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:25:17 UTC] PHP Warning:  include(): Failed opening '(config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:25:17 UTC] PHP Notice:  Undefined variable: conn in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:25:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:25:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 11
+[15-Feb-2023 07:25:22 UTC] PHP Warning:  include((config.php): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/ajax/dcity.php on line 2
+[15-Feb-2023 07:25:22 UTC] PHP Warning:  include(): Failed opening '(config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aimcabbo/public_html/admin/ajax/dcity.php on line 2
+[15-Feb-2023 07:25:22 UTC] PHP Notice:  Undefined variable: conn in /home/aimcabbo/public_html/admin/ajax/dcity.php on line 7
+[15-Feb-2023 07:25:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aimcabbo/public_html/admin/ajax/dcity.php on line 7
+[15-Feb-2023 07:25:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aimcabbo/public_html/admin/ajax/dcity.php on line 11
+[15-Feb-2023 07:28:27 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:28:27 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:28:27 UTC] PHP Notice:  Undefined variable: link in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:28:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 11
+[15-Feb-2023 07:39:04 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:39:04 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aimcabbo/public_html/admin/ajax/city.php on line 2
+[15-Feb-2023 07:39:04 UTC] PHP Notice:  Undefined variable: link in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 7
+[15-Feb-2023 07:39:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aimcabbo/public_html/admin/ajax/city.php on line 11
+[31-Oct-2023 12:34:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'aimcabbo_ajcabs.cities' doesn't exist in /home/aimcabbo/public_html/ajcabservices.com/Admin/ajax/city.php:7
+Stack trace:
+#0 /home/aimcabbo/public_html/ajcabservices.com/Admin/ajax/city.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/aimcabbo/public_html/ajcabservices.com/Admin/ajax/city.php on line 7

@@ -1,0 +1,12 @@
+
+RewriteOptions inherit
+RewriteEngine On
+
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^ajcabservices\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ajcabservices\.com$
+RewriteRule ^/?$ "https\:\/\/ajcabservices\.com\/" [R=302,L]

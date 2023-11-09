@@ -1,0 +1,20 @@
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(uploads/babo4.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8qH8ex' to 'uploads/babo4.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(uploads/babo3.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTC2Qzm' to 'uploads/babo3.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(uploads/slide2.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1sGQUb' to 'uploads/slide2.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(uploads/babo.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXhw3f1' to 'uploads/babo.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:43 UTC] PHP Warning:  move_uploaded_file(uploads/babo4.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpT9zKHX' to 'uploads/babo4.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:43 UTC] PHP Warning:  move_uploaded_file(uploads/babo3.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 04:38:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjP7ZL7' to 'uploads/babo3.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:18:40 UTC] PHP Warning:  move_uploaded_file(uploads/babo4.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:18:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDj3WqA' to 'uploads/babo4.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:18:40 UTC] PHP Warning:  move_uploaded_file(uploads/babo3.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:18:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvv4taX' to 'uploads/babo3.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:19:50 UTC] PHP Warning:  move_uploaded_file(uploads/babo4.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:19:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLxykJt' to 'uploads/babo4.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:19:50 UTC] PHP Warning:  move_uploaded_file(uploads/babo3.jpg): failed to open stream: No such file or directory in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
+[31-Aug-2022 05:19:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBb2ob4' to 'uploads/babo3.jpg' in /home/aimcabbo/public_html/admin/multiple/upload-script.php on line 45
